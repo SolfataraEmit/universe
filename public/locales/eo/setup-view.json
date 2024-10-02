@@ -1,11 +1,11 @@
 {
-    "setting-up": "Setting up the Tari truth machine...",
-    "this-might-take-a-few-minutes": "This might take a few minutes",
-    "dont-worry": "Don't worry, next time it won't take as long",
+    "setting-up": "Instalante la veran maŝinon Tari...",
+    "this-might-take-a-few-minutes": "Ĉi tio eble daŭros kelkajn minutojn",
+    "dont-worry": "Ne zorgu; venontfoje ĝi ne daŭros tiom longe",
     "title": {
-        "starting-up": "Starting up",
-        "checking-latest-version-gpuminer": "Checking for latest version of xtrgpuminer",
-        "checking-latest-version-node": "Checking for latest version of node",
+        "starting-up": "Ekfunkciigo",
+        "checking-latest-version-gpuminer": "Kontrolante la plej novan version de xtrgpuminer",
+        "checking-latest-version-node": "Kontrolante la plej novan version de node",
         "checking-latest-version-mmproxy": "Checking for latest version of mmproxy",
         "checking-latest-version-wallet": "Checking for latest version of wallet",
         "checking-latest-version-xmrig": "Checking for latest version of xmrig",
