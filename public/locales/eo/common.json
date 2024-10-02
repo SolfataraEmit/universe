@@ -1,0 +1,23 @@
+{
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "temperature": "Temperature",
+    "max-temperature": "Max temperature",
+    "usage": "Usage",
+    "seconds": "seconds",
+    "copied": "Copied",
+    "unknown": "Unknown",
+    "versions": "Versions",
+    "version": "Version",
+    "resources": "Resources",
+    "hashrate": "Hashrate",
+    "utilization": "Utilization",
+    "mode": "Mode",
+    "day": "Day",
+    "shutting-down": "Shutting down..",
+    "tari-universe": "Tari Universe",
+    "testnet": "Testnet",
+    "critical-error": "Critical error",
+    "please-try-again-later": "Please try again later. If the problem persists, please contact us.",
+    "close-tari-universe": "Close Tari Universe"
+}
